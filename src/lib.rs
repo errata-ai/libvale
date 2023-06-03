@@ -7,5 +7,6 @@
 /// Its functionality is exposed through a command-line interface (CLI)
 /// written in Go.
 pub mod error;
+pub mod git;
 pub mod utils;
 pub mod vale;
